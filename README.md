@@ -1,2 +1,2 @@
 # Generative-Model-Tutorial
-tutorial for generative models with simple codes
+tutorials for generative models with simple codes
