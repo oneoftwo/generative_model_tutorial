@@ -1,2 +1,1 @@
-# generative model tutorials
 
